@@ -4,4 +4,4 @@
 <a href="https://blog.naver.com/whgywjd963" target="_blank"><img src="https://img.shields.io/badge/jomi_gim-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="mailto:jomigim00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jomigim00@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomigim&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomigim&show_icons=true&theme=dark)
